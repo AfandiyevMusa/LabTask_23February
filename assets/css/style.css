@@ -1,0 +1,189 @@
+/* Task1
+#cardsP .container{
+    padding: 70px 0 40px;
+}
+
+#cardsP .container .eachCard{
+    width: 350px;
+    background-color: white;
+    transition: 0.4s;
+}
+
+.active{
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+    cursor: pointer;
+}
+
+#cardsP .container .eachCard .upImage img{
+    width: 100%;
+    height: 100%;
+}
+
+.upImage i{
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    bottom: 20px;
+    left: 40%;
+    width: 60px;
+    height: 60px;
+    background-color: white;
+    border-radius: 50px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.wordsP span{
+    text-align: center;
+    display: flex;
+    padding: 30px;
+}
+
+.infos{
+    display: flex;
+    justify-content: space-around;
+    color: rgb(95 97 97);
+}
+
+.like{
+    display: flex;
+    transition: 0.4s;
+    background-color: rgb(237 243 243);
+    padding-left: 35px;
+    padding-right: 35px;
+    padding-top: 20px;
+}
+
+.like i{
+    padding-right: 10px;
+    padding-top: 4px;
+}
+
+.like:hover{
+    color: rgb(141 180 247);
+    cursor: pointer;
+    transition: 0.4s;
+}
+
+.comment{
+    display: flex;
+    transition: 0.4s;
+    padding-left: 35px;
+    padding-right: 35px;
+    background-color: rgb(237 243 243);
+    padding-top: 20px;
+}
+
+.comment i{
+    padding-right: 10px;
+    padding-top: 4px;
+}
+
+.comment:hover{
+    color: rgb(141 180 247);
+    cursor: pointer;
+    transition: 0.4s;
+}
+
+.seen{
+    display: flex;
+    transition: 0.4s;
+    padding-left: 35px;
+    padding-right: 35px;
+    background-color: rgb(237 243 243);
+    padding-top: 20px;
+}
+
+.seen i{
+    padding-right: 10px;
+    padding-top: 4px;
+}
+
+.seen:hover{
+    color: rgb(141 180 247);
+    cursor: pointer;
+    transition: 0.4s;
+} */
+
+
+/* Task2
+.input-part{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100%;
+}
+
+.container-add{
+    background-color: slategrey;
+    opacity: 0.4;
+    transition: 0.5s;
+}
+
+::placeholder{
+    text-align: center;
+}
+
+.alert-part{
+    position: absolute;
+    top: 100px;
+    left: 35%;
+    right: 35%;
+    box-shadow: rgba(6, 24, 44, 0.4) 0px 0px 0px 2px, rgba(6, 24, 44, 0.65) 0px 4px 6px -1px, rgba(255, 255, 255, 0.08) 0px 1px 0px inset;
+    display: none;
+}
+
+.button-part{
+    border-bottom: 1px solid darkgray;
+}
+
+.button-part i{
+    margin-top: 10px;
+    margin-bottom: 15px;
+    width: 95%;
+    text-align: end;
+    font-size: 20px;
+    transition: 0.4s;
+}
+
+.display-part{
+    display: block;
+}
+
+.button-part i:hover{
+    color: red;
+    transition: 0.4s;
+    cursor: pointer;
+}
+
+.message{
+    margin-top: 15px;
+    margin-bottom: 30px;
+
+    width: 100%;
+    text-align: center;
+}
+
+.message span{
+    font-size: 25px;
+} */
+
+
+/* Task3 */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
